@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Castle KO3 - The Experience
+DESCRIPTION:Exceptional European launch event for BFGoodrich's KO3 tyre.
+LOCATION:Château de Lastours, 11490 Portel-des-Corbières
+DTSTART:20251008T100000Z
+DTEND:20251010T170000Z
+TZID:Europe/Paris
+END:VEVENT
+END:VCALENDAR
